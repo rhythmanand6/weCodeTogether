@@ -117,3 +117,24 @@ hr{
 .touch2{
   color: #05dfd7;
 }
+.navbar-toggler {
+	box-shadow: 0px 10px 14px -7px #282e2d;
+	background-color:#768d87;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:11px;
+	font-weight:bold;
+	padding:8px 5px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2b665e;
+}
+.navbar-toggler:hover {
+	background-color:#6c7c7c;
+}
+.navbar-toggler:active {
+	position:relative;
+	top:1px;
+}
